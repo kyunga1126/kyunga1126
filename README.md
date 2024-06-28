@@ -1,1 +1,1 @@
-https://img.shields.io/badge/coffeescript%2Cjava%2C%2300B1E7
+https://img.shields.io/badge/java-D30707?style=flat-square&logo=coffeescript&logoColor=#00B1E7&link=https://velog.io/@new_wisdom
