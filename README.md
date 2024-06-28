@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @kyunga1126
-- 👀 I’m interested in ...
-- 🌱 백엔드 개발자가 되기 위해서 관련 스킬들을 배우고 있어요
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me >> audwk6028@naver.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  <div align=center>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyunga1126&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  </div>
 
-<!---
-kyunga1126/kyunga1126 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+	
+
+	
