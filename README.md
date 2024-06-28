@@ -1,4 +1,42 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&&color=_hexcode&color=FFE9D0&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?types=wave&color=C1ECE4&height=200" />
 
-<img src="https://img.shields.io/badge/출력할 글자 -  색상 ?style=for-the-badge&logo=로고이름 &logoColor=white">
+<div align=center>
 
+  
+# Hi✋ I'm Kyung A
+<br/>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyunga1126&count_bg=%233AA6B9&title_bg=%23FF9EAA&icon=&icon_color=%23FFD0D0&title=hits&edge_flat=false"/></a>
+
+<br/>
+<br/>
+
+### 📚Stacks📚
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> 
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFF"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFF"/> 
+<img src="https://img.shields.io/badge/GitHub-EAEAEA?style=for-the-badge&logo=github&logoColor=000"/> 
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+### 📽️Project
+<a href="https://github.com/kyunga1126/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kyunga1126&repo=ChatBot_Project&theme=panda" />
+</a>
+
+
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyunga1126&theme=panda)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyunga1126&layout=compact&theme=panda)
+
+</div>
