@@ -1,7 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?types=wave&color=C1ECE4&height=200" />
-
 <div align=center>
 
+<img src="https://capsule-render.vercel.app/api?types=wave&color=C1ECE4&height=150" />
   
 # Hi✋ I'm Kyung A
 <br/>
