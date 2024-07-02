@@ -25,7 +25,8 @@
 <a href="https://github.com/kyunga1126/ChatBot_Project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kyunga1126&repo=ChatBot_Project&theme=panda" />
 </a>
-<a href="[https://github.com/kyunga1126/ChatBot_Project](https://github.com/kyunga1126/springboot-developer)">
+
+<a href="https://github.com/kyunga1126/springboot-developer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kyunga1126&repo=springboot-developer&theme=panda" />
 </a>
 
