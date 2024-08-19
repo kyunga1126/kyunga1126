@@ -25,6 +25,9 @@
 <a href="https://github.com/kyunga1126/ChatBot_Project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kyunga1126&repo=ChatBot_Project&theme=panda" />
 </a>
+<a href="https://github.com/kyunga1126/Rank_Game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kyunga1126&repo=Rank_Game&theme=panda" />
+</a>
 
 <br/>
 <br/>
