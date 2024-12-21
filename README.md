@@ -29,6 +29,9 @@
 <a href="https://github.com/kyunga1126/Rank_Game">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kyunga1126&repo=Rank_Game&theme=panda" />
 </a>
+<a href="https://github.com/kyunga1126/millionvolt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kyunga1126&repo=millionvolt&theme=panda" />
+</a>
 
 <br/>
 <br/>
