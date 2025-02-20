@@ -33,7 +33,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kyunga1126&repo=millionvolt&theme=panda" />
 </a>
 <a href="https://github.com/yac-ola-92/mini-project-mung-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kyunga1126&repo=mini-project-mung-2&theme=panda" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yac-ola-92&repo=mini-project-mung-2&theme=panda" />
 </a>
 
 <br/>
