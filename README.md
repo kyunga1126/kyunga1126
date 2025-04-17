@@ -23,9 +23,6 @@
 <br/>
 
 ### 📽️Project
-<a href="https://github.com/N1LLC/PoC-CodeVibe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=N1LLC&repo=PoC-CodeVibe&theme=panda" />
-</a>
 <a href="https://github.com/kyunga1126/millionvolt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kyunga1126&repo=millionvolt&theme=panda" />
 </a>
