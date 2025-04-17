@@ -23,17 +23,20 @@
 <br/>
 
 ### 📽️Project
-<a href="https://github.com/kyunga1126/ChatBot_Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kyunga1126&repo=ChatBot_Project&theme=panda" />
-</a>
-<a href="https://github.com/kyunga1126/Rank_Game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kyunga1126&repo=Rank_Game&theme=panda" />
+<a href="https://github.com/N1LLC/PoC-CodeVibe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=N1LLC&repo=PoC-CodeVibe&theme=panda" />
 </a>
 <a href="https://github.com/kyunga1126/millionvolt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kyunga1126&repo=millionvolt&theme=panda" />
 </a>
 <a href="https://github.com/yac-ola-92/mini-project-mung-2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yac-ola-92&repo=mini-project-mung-2&theme=panda" />
+</a>
+<a href="https://github.com/kyunga1126/Rank_Game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kyunga1126&repo=Rank_Game&theme=panda" />
+</a>
+<a href="https://github.com/kyunga1126/ChatBot_Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kyunga1126&repo=ChatBot_Project&theme=panda" />
 </a>
 
 <br/>
