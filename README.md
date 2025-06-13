@@ -1,10 +1,7 @@
 <div align=center>
 
-<img src="https://capsule-render.vercel.app/api?types=wave&color=C1ECE4&height=150" />
-  
 # Hi✋ I'm Kyung A
 <br/>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyunga1126&count_bg=%233AA6B9&title_bg=%23FF9EAA&icon=&icon_color=%23FFD0D0&title=hits&edge_flat=false"/></a>
 
 <br/>
 <br/>
